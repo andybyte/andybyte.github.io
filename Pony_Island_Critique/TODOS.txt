@@ -1,9 +1,0 @@
-[ ] Fix video so that it works on mobile.
-[x] Test for Opera
-[ ] Test for Chrome
-[ ] Test for Safari
-[ ] Test for Firefox
-[ ] Test for Internet Explorer
-[ ] Test for Edge
-[ ] Test for iOS
-[ ] Test for Android
