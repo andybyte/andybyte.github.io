@@ -1,6 +1,8 @@
 ---
 
-layout: post title: "Andy Launches Site"
+layout: post
+
+title: "Andy Launches Site"
 
 date: 2018-07-22
 ---
