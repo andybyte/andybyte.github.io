@@ -31,3 +31,53 @@ img
     opacity: 1.0;
     max-width: 200px;
 }
+
+.page__footer {
+	background-color: #003594;
+}
+
+.masthead {
+	background-color: #003594;
+}
+
+.greedy-nav {
+	background-color: #003594;
+}
+
+.greedy-nav a {
+	color: white;
+}
+
+.greedy-nav a:hover {
+	color: white;
+}
+
+.greedy-nav .visible-links a:before {
+  background-color: #FFB81C;
+}
+
+.activeNav {
+	color: green;
+}
+
+.greedy-nav .hidden-links {
+	background: #003594;	
+}
+
+.greedy-nav .hidden-links a:hover {
+	background: #003594;
+	color: white;
+	border-bottom: 3px solid #FFB81C;
+}
+
+.navicon, .navicon::before, .navicon::after {
+	background-color: #FFB81C;	
+}
+
+.close .navicon::before,.close .navicon::after {
+	background-color: #FFB81C;	
+}
+
+.greedy-nav__toggle:hover .navicon, .greedy-nav__toggle:hover .navicon::before, .greedy-nav__toggle:hover .navicon::after {
+	background-color: #FFD579;
+}
