@@ -5,6 +5,9 @@
 layout: home
 ---
 
+<img src="/resources/ice_banner.png" alt="Banner Image">
+
+
 I'm rebuilding this website. Please come back in a week.
 
 Thank you for your patience. :)
