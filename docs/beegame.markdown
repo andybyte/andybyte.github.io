@@ -4,7 +4,7 @@ title: Bubble Bee
 permalink: /beegame/
 ---
 
-**Bubble Bee** is a charming arcade-style game where players control a friendly bee navigating through environments (some with bubbles). This project showcases my game development skills in creating engaging, accessible gameplay experiences.
+**Bubble Bee** is a charming arcade-style game where players control a friendly bee navigating through a field of flowers (and bubbles). In the spirit of open development, I will be sharing playtest results and my planned "next actions." My goal is to foster a public conversation with developers and players about effective playtesting and how we can collectively improve our games.
 
 ## About the Game
 
@@ -19,7 +19,7 @@ In Bubble Bee, players control a bumble bee on a mission to pollinate flowers. T
 
 <iframe frameborder="0" src="https://itch.io/embed/3270844" width="552" height="167"><a href="https://andybyte.itch.io/bubble-bee">Bubble Bee by Andybyte</a></iframe>
 
-You can play Bubble Bee directly in your browser on [itch.io](https://andybyte.itch.io/bubble-bee).
+You can play the pilot level of Bubble Bee directly in your browser on [itch.io](https://andybyte.itch.io/bubble-bee).
 
 ## Development Details
 
@@ -29,12 +29,12 @@ You can play Bubble Bee directly in your browser on [itch.io](https://andybyte.i
 - **Focus**: Accessible, family-friendly gameplay
 
 ### Design Goals
-- Create an enjoyable, stress-free gaming experience
-- Focus on smooth, responsive controls
+- Create an enjoyable gaming experience
+- Focus on simple controls but some challenge from the environment
 - Develop appealing visual aesthetics
-- Ensure broad accessibility across age groups
+- Ensure broad accessibility across age groups (Mario-like design where more challenging objectives are optional but the essentials are not as challenging)
 
-## What I Learned
+## What I Learned So Far
 
 This project allowed me to explore:
 - Game mechanics design and balancing
@@ -54,4 +54,4 @@ Potential improvements for future versions:
 
 ---
 
-*Interested in collaborating on game projects? [Get in touch!](mailto:andybytesmail@gmail.com)*
+*Interested in collaborating on game projects? [Get in touch!](mailto:andybytesmail@gmail.com) or [DM me on Discord](https://discord.com/users/andybyte)*

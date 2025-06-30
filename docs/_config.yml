@@ -21,10 +21,10 @@
 title: Andy's Studio/Lab
 email: andybytesmail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Andy shares his projects. Mostly games, photos, and videos.
+  Making experiences that matter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: andybyte
+#twitter_username: andybyte
 github_username:  andybyte
 
 # Build settings
