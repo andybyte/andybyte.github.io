@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Andy's Projects
+title: Andy's Studio/Lab
 email: andybytesmail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Andy shares his projects. Mostly games, photos, and videos.
@@ -51,3 +51,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  #- games.markdown
+  #- research.markdown
+  - about.markdown
