@@ -19,7 +19,7 @@ I'm seeking funding to further develop **Immuno-Defender**, an educational 3D ac
 
 The game combines engaging gameplay mechanics with scientifically accurate immune system concepts, making learning about biology both fun and interactive. Designing, developing, and evaluating the vertical slice game was the focus of my <a href="http://d-scholarship.pitt.edu/id/eprint/45354" target="_blank">MSIS thesis</a>.
 
-[Learn more about Immuno Defender →](/immuno-defender/)
+[Learn more about Immuno-Defender →](/immuno-defender/)
 
 ## Bubble Bee 🐝
 
