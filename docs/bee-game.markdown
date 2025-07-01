@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Bubble Bee
-permalink: /beegame/
+permalink: /bee-game/
 ---
 
 **Bubble Bee** is a charming arcade-style game where players control a friendly bee navigating through a field of flowers (and bubbles). In the spirit of open development, I will be sharing playtest results and my planned "next actions." My goal is to foster a public conversation with developers and players about effective playtesting and how we can collectively improve our games.
 
 ## About the Game
+
+I made this game for the <a href="https://globalgamejam.org/games/2025/bubble-bee-8-2" target="_blank">2025 Global Game Jam</a> and decided I liked the concept of a simple platformer bee game that I would continue working on it.
 
 In Bubble Bee, players control a bumble bee on a mission to pollinate flowers. The game features:
 

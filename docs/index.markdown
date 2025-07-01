@@ -10,7 +10,7 @@ Hello and welcome to my studio/lab where I combine data science, user research, 
 ## Immuno-Defender 🦠
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1em;">
-    <video src="/assets/images/immunodefender_demo.mov" controls  loop muted playsinline style="max-width: 100%; height: auto; border-radius: 8px;"></video>
+    <video src="/assets/images/immuno-defender_demo.mov" controls  loop muted playsinline style="max-width: 100%; height: auto; border-radius: 8px;"></video>
 </div>
    
 I'm seeking funding to further develop **Immuno-Defender**, an educational 3D action game that teaches players about the immune system while they defend the body against pathogens. 
@@ -19,16 +19,16 @@ I'm seeking funding to further develop **Immuno-Defender**, an educational 3D ac
 
 The game combines engaging gameplay mechanics with scientifically accurate immune system concepts, making learning about biology both fun and interactive. Designing, developing, and evaluating the vertical slice game was the focus of my <a href="http://d-scholarship.pitt.edu/id/eprint/45354" target="_blank">MSIS thesis</a>.
 
-[Learn more about Immuno Defender →](/immunodefender/)
+[Learn more about Immuno Defender →](/immuno-defender/)
 
 ## Bubble Bee 🐝
 
-*Bubble Bee* (tentative title) is a game I'm developing and playtesting following the [2025 Global Game Jam](https://globalgamejam.org/games/2025/bubble-bee-8-2). It's a simple game I wanted to make for my daughter who loves playing outside and blowing bubbles.
+*Bubble Bee* (tentative title) is a game I'm developing and playtesting following the 2025 Global Game Jam. It's a simple game I wanted to make for my daughter who loves playing outside and blowing bubbles.
 
 You can play the pilot level online at its itch.io page:
 <iframe frameborder="0" src="https://itch.io/embed/3270844" width="552" height="167"><a href="https://andybyte.itch.io/bubble-bee">Bubble Bee by Andybyte</a></iframe>
 
-[Learn more about Bubble Bee →](/beegame/)
+[Learn more about Bubble Bee →](/bee-game/)
 
 ## Other Games - Coming soon 🏗️
 
