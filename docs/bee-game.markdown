@@ -21,7 +21,7 @@ In Bubble Bee, players control a bumble bee on a mission to pollinate flowers. T
 
 <iframe frameborder="0" src="https://itch.io/embed/3270844" width="552" height="167"><a href="https://andybyte.itch.io/bubble-bee">Bubble Bee by Andybyte</a></iframe>
 
-You can play the pilot level of Bubble Bee directly in your browser on [itch.io](https://andybyte.itch.io/bubble-bee).
+You can play the pilot level of Bubble Bee directly in your Firefox browser (Chrome testing is next on my list) on [itch.io](https://andybyte.itch.io/bubble-bee).
 
 ## Development Details
 
