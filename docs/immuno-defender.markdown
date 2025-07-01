@@ -29,4 +29,4 @@ Below are the controls of the game here for your reference.
 
 ## Mixed-Methods Evaluation
 
-You can read my thesis, [Mixed Methods Evaluation of Immuno-Defender’s Player Experience and Learning Outcomes](https://d-scholarship.pitt.edu/45354/) to learn how I designed, developed, and then applied user research to evaluate the game's experience and learning objectives.
+You can read my thesis, <a href="https://d-scholarship.pitt.edu/45354/" target="_blank">Mixed Methods Evaluation of Immuno-Defender’s Player Experience and Learning Outcomes</a> to learn how I designed, developed, and then applied user research to evaluate the game's experience and learning objectives.
