@@ -25,7 +25,7 @@ The game combines engaging gameplay mechanics with scientifically accurate immun
 
 *Bubble Bee* (tentative title) is a game I'm developing and playtesting following the 2025 Global Game Jam. It's a simple game I wanted to make for my daughter who loves playing outside and blowing bubbles.
 
-You can play the pilot level online at its itch.io page (Firefox is supported):
+You can play the pilot level online at its itch.io page (**Firefox** is supported):
 <iframe frameborder="0" src="https://itch.io/embed/3270844" width="552" height="167"><a href="https://andybyte.itch.io/bubble-bee">Bubble Bee by Andybyte</a></iframe>
 
 [Learn more about Bubble Bee →](/bee-game/)
