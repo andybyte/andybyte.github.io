@@ -7,6 +7,8 @@ title: Immuno-Defender
 permalink: /immuno-defender/
 ---
 
+> *You control a Nano-Bot and take part in your own immune system to fight against diseases in your body. Learn how the immune system works to overcome viruses and build immunity, or perish trying. It's up to you in this 3D action game.*
+
 ![Immuno-Defender Teaser](/assets/images/immuno-defender_teaser.png)
 
 This project was the focus of my MSIS thesis at the University of Pittsburgh, and I am currently seeking funding and feedback to continue its development. You can read the full thesis <a href="http://d-scholarship.pitt.edu/id/eprint/45354" target="_blank">here</a>.
